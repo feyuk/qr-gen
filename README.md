@@ -59,11 +59,11 @@ If requirements above are not installed in your computer, you'll need to install
 
 - Clone the repository
   ```sh
-  git clone https://github.com/denielden/react-qrcode-generator.git
+  git clone https://github.com/feyuk/qr-gen.git
   ```
 - Navigate to repository folder
   ```sh
-  cd qrcode-generator
+  cd qr-gen
   ```
 - Install npm packages
   ```sh
