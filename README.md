@@ -1,4 +1,4 @@
-# Qr Code Generator with color theme switcher
+# Qr Code Generator
 
 
 <img src="./preview-image.png" alt="preview" width="400"/>
