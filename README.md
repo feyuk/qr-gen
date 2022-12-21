@@ -1,7 +1,7 @@
 # Qr Code Generator with color theme switcher
 
-![Qr Code Generator](./preview-image.png)
-<img src="./preview-image.png" alt="preview" width="250"/>
+
+<img src="./preview-image.png" alt="preview" width="400"/>
 
 This app generates Qr Code based on the entered URL. It is also possible to customize and download the generated Qr Code.
 
