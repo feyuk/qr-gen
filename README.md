@@ -3,12 +3,11 @@
 
 <img src="./preview-image.png" alt="preview" width="400"/>
 
-This app generates Qr Code based on the entered URL. It is also possible to customize and download the generated Qr Code.
 
 
 ### About App
 
-This app generates Qr Code based on the url entered.
+A lightweight and easy-to-use web application for generating QR codes. Built with modern JavaScript frameworks, this app allows users to quickly generate and download QR codes for URLs, text, and more. The project showcases efficient client-side development, utilizing React for the frontend and providing a seamless user experience
 
 Features: 
 - Light / dark mode theme switcher
